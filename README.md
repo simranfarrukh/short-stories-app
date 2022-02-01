@@ -1,14 +1,18 @@
-# Sample Snack app
+# Short Stories App
 
-<div data-snack-id="@simranfarrukh/mimi-short-stories" data-snack-platform="web" data-snack-preview="true" data-snack-theme="light" style="overflow:hidden;background:#F9F9F9;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div>
-<script async src="https://snack.expo.dev/embed.js"></script>
+A very simple, very rookie skeleton of a react native app for short stories (w.i.p.) created using Expo
+## Installation
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Check out the project on Snack by Expo [link to project](https://snack.expo.dev/@simranfarrukh/mimi-short-stories)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+## Usage
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+You can simply use the in-editor preview window to preview the app on your phone (iPhone or Android) or on the Web.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
